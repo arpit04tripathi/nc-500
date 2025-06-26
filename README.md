@@ -1,8 +1,6 @@
-# nc-500
-
 Fuel/petrol: Handy to fill up in Thurso, Ullapool, Inverness—prices vary
 
-## Day 1
+## Day 1 - SAT - JUL 5
 
 - Glasgow
 - Fort Augustus
@@ -17,7 +15,7 @@ Fuel/petrol: Handy to fill up in Thurso, Ullapool, Inverness—prices vary
   - Perk in Inverness: top‑notch coffee + doughnuts + vegan options 
   - **Stay**: Inverness hotel—consider centrally located to explore or 
 
-## Day 2
+## Day 2 - SUN - JUL 6
 
 - Inverness
 - Culloden Battlefield near inverness
@@ -36,7 +34,7 @@ Fuel/petrol: Handy to fill up in Thurso, Ullapool, Inverness—prices vary
   - Dinner at Dornoch Castle Hotel
   - Stay: Dornoch Castle hotel or boutique stay in the town centre.
 
-## Day 3
+## Day 3 - MON - JUL 7
 
 - Dornoch
 - Dunrobin Castle
@@ -52,7 +50,7 @@ Fuel/petrol: Handy to fill up in Thurso, Ullapool, Inverness—prices vary
   - fish & chips at Halladale Inn
   - Stay: Charming B&B or small hotel in Thurso
 
-## Day 4
+## Day 4 - TUE - JUL 8
 
 - Thurso - Thurso/Bettyhill area for early wildlife start next day
 - Tongue - Tongue photo stop (Kyle of Tongue bridge area)
@@ -66,7 +64,7 @@ Fuel/petrol: Handy to fill up in Thurso, Ullapool, Inverness—prices vary
   - Dinner in Lochinver: Lochinver Larder pies or Driftwood Café for light fare
   - Stay: coastal Cabin or B&B in Lochinver or a beachside cottage
 
-## Day 5
+## Day 5 - WED - JUL 9
 
 - Lochinver
   - Quick sunrise stroll at Clachtoll Broch or Achmelvich Beach
@@ -84,7 +82,7 @@ Fuel/petrol: Handy to fill up in Thurso, Ullapool, Inverness—prices vary
   - Stay: Torridon Hotel (5★), or cozy B&B nearby.
   - In Torridon, enjoy a dram and live music at the Torridon bar
 
-# Day 6
+# Day 6 - THU - JUL 10
 
 - Torridon
   - Sunrise via Pulpit Rock viewpoint (Glen Torridon)
@@ -103,7 +101,7 @@ Fuel/petrol: Handy to fill up in Thurso, Ullapool, Inverness—prices vary
   - Dinner in Kyle of Lochalsh – numerous local eateries; check local catch options
   
 
-# Day 7
+# Day 7 - FRI - JUL 11
 
 - Kyle
   - Quick stop at Glen Ord or Glenmorangie Distillery en route
@@ -117,4 +115,3 @@ Fuel/petrol: Handy to fill up in Thurso, Ullapool, Inverness—prices vary
 - Drive via Rannoch Moor & Glencoe (James Bond/Skyfall locations)
 - Glasgow (via A9)
   - Arrive Glasgow by evening.
-
